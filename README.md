@@ -1,4 +1,4 @@
-### Bem-vindo ao meu perfil! ⏳ 💻
+### Bem-vindo ao meu perfil! ⏳ 💻 🙋‍♀️
 
 - Meu nome é Patrícia Bonifácio Pinto;
 - Sou Embaixadora Edutech no NRE de Laranjeiras do Sul e estudo na [ALURA](https://www.alura.com.br);

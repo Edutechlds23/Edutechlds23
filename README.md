@@ -11,7 +11,7 @@
 
 ### Quer entrar em contato? Envie um 📫
 
-paty.pi1977@gmailo.com **ou**
+paty.pi1977@gmail.com **ou**
 
 @patybpinto
 

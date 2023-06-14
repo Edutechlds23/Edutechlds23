@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem-vindo ao meu perfil! ⏳ 💻
 
-<!--
-**Edutechlds23/Edutechlds23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Patrícia Bonifácio Pinto;
+- Sou Embaixadora Edutech no NRE de Laranjeiras do Sul e estudo na [ALURA](https://www.alura.com.br);
+- Aprendiz da Linguagem JavaScript;
+- Este espaço é dedicado para organizar e compartilhar meus projetos desenvolvidos.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Quer entrar em contato? Envie um 📫
+
+paty.pi1977@gmailo.com **ou**
+
+@patybpinto
+
+![](https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif)
+
+
